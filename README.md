@@ -1,12 +1,4 @@
-<div align="center">
 
-⭐ **If you like this project, please star the repository!** ⭐
-
-<hr>
-
-<a href="[Your Repository URL]">
-<img src="[Your Logo URL]" width="90" alt="Slide Logo" />
-</a>
 
 <h2>Slide - Instagram Engagement Automation Platform</h2>
 
@@ -58,22 +50,8 @@ Slide is a powerful Instagram automation platform designed to revolutionize how 
 - npm or yarn
 - PostgreSQL database
 
-### 🛠️ Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone [your-repository-url]
-   cd slide-webprodigies
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables:**
+ **Set up environment variables:**
    Create a `.env` file with:
 
    ```env
@@ -96,21 +74,7 @@ Slide is a powerful Instagram automation platform designed to revolutionize how 
     OPEN_AI_KEY=...
    ```
 
-4. **Run database migrations:**
 
-   ```bash
-   npx prisma generate
-   npx prisma db push
-   ```
-
-5. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-
-## 📖 Usage
-
-Visit `http://localhost:3000` to access the application. Create an account to:
 
 - Connect your Instagram account
 - Set up automation rules
